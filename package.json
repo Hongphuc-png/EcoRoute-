@@ -1,0 +1,20 @@
+{
+  "name": "ecoroute-opti",
+  "version": "1.0.0",
+  "description": "Nền tảng Tối ưu Lộ trình và Điều phối Rác thải Đô thị EcoRoute Opti",
+  "type": "module",
+  "scripts": {
+    "dev": "node start.js",
+    "start": "node start.js"
+  },
+  "keywords": [
+    "vrp",
+    "ecoroute",
+    "waste-management",
+    "fastapi",
+    "react",
+    "tailwind"
+  ],
+  "author": "EcoRoute Team",
+  "license": "MIT"
+}
